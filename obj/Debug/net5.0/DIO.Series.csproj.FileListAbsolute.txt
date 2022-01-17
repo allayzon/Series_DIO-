@@ -1,0 +1,16 @@
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\Allyson\Documentos\DIO\Decola_Tech\SERIES\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
